@@ -3,7 +3,7 @@
 Para inicializar nuestro entorno de trabajo necesitamos instalar **react-native-community-cli** de la siguiente manera
 
 ```powershell
-    $ npm i -g react-native-comunity/cli
+    $ npm i -g react-native-community/cli
 ```
 
 Tambien tenenos que instalar android studio y nodeJS.
